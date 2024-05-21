@@ -64,3 +64,4 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+# foundry_lottery_smart_contract
